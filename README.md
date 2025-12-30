@@ -1,68 +1,71 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+React+Native+%7C+TypeScript;2%2B+Years+of+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=2D9EF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+React+Native+%7C+TypeScript;eat()+-%3E+sleep()+-%3E+code()+-%3E+repeat()" alt="Typing SVG" />
 </div>
+
 
 <h1 align="center">👋 Привет! Я Сергей Краснопольский</h1>
 
 <p align="center">
-  <a href="https://t.me/SergeyKWork"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="mailto:sergeiikrasnopolskii@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/DarckShot"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://t.me/DarckShot"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="mailto:sergey_krasn@mail.ru">
+    <img src="https://img.shields.io/badge/Mail.ru-005FF9?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sergey-krasnopolskiy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
+
 
 ---
 
-## 🚀 О себе
+## О себе
 
-> Middle Frontend разработчик с опытом работы в React и React Native. Специализируюсь на создании высоконагруженных веб-приложений и оптимизации производительности.
+> Middle Frontend разработчик (React / React Native / TypeScript). Делаю интерфейсы для высоконагруженных систем и много внимания уделяю производительности и качеству.
 
-- 🔭 Работаю над **VR-IT проектами** и **EdTech платформами**
-- 💡 Улучшил производительность приложений на **25-40%**
-- 🎯 Покрытие тестами до **85%**
-- 📈 Оптимизировал загрузку приложений с **40+ до 25 секунд**
-- 🌱 Постоянно изучаю новые технологии и best practices
-
+- Разработал **40+ UI-компонентов** на React / React Native. 
+- Оптимизировал приложение, что позволило ускорить его  **с 25 до 35 сек** и **с 30 до 40 сек** (в зависимости от проекта/сценария).
+- Настраивал и поддерживал тестирование: покрытие до **85%** (Jest, React Testing Library), также есть проект с **60%** покрытия тестами. 
+- Исправил **100+ багов** и участвовал в повышении **uptime на 40%**.
+- Разрабатываю EdTech-платформу, включая интеграцию с **AI-функциями**.
+  
 ---
 
 ## 💼 Опыт работы
 
-### 🏢 VR-IT Company | Middle Frontend Developer
-**01.2025 - настоящее время** (8 месяцев)
+### VR-IT | Middle Frontend Developer
 
-- ⚡ Разработал **40+ компонентов** на React и React Native
-- 🎨 Создал admin-панель на React TypeScript с lazy-loading (30% быстрее, 25% меньше времени загрузки)
-- 📊 Снизил время загрузки приложения с **40 до 25 секунд**
-- 🚀 Увеличил Lighthouse Performance с **20-25% до 60+%**
-- 🎯 Повысил UX показатели на **20%**
+- Разработал **40+ компонентов** на React и React Native
+- Разработал admin-панель на React TypeScript с lazy-loading (30% быстрее, 25% меньше времени загрузки)
+- Снизил время загрузки приложения с **40 до 25 секунд**
+- Увеличил Lighthouse Performance с **20-25% до 60+%**
+- Повысил UX показатели на **20%**
 
-### 🏢 Foresight | Junior Frontend Developer  
-**01.2023 - 12.2024** (1 год 3 месяца)
+### Форсайт | Junior Frontend Developer
 
-- 📈 Оптимизировал React приложение (с 25 до 35 секунд быстрее)
-- ✅ Покрытие тестами **85%** (Jest, React Testing Library)
-- 🛠️ Исправил **100+ production багов**
-- ⏱️ Повысил uptime на **40%**
+- Оптимизировал React приложение (ускорение **от 25 до 35 секунд**)
+- Покрытие тестами **85%** (Jest, React Testing Library)
+- Исправил **100+ production багов**
+- Повысил uptime на **40%**
 
-### 🏢 Triad of The Mind | Frontend Developer
-**04.2023 - 12.2023** (4 месяца)
+### Triad of The Mind | Frontend Developer
 
-- 🎓 Разработка EdTech-платформы для **50+ студентов**
-- 🗄️ Интеграция с PostgreSQL
-- 🤖 Интеграция AI-функций
-- ✅ Покрытие тестами **60%**
+- Разработка **EdTech-платформы**
+- Разработка **архитектуры** базы данных PostgreSQL
+- Интеграция **AI-помощника**
+- Покрытие тестами **60%**
 
 ---
 
 ## 🛠️ Технологический стек
 
 ### Frontend
-```text
-⚛️  React / React Native      ████████████████████░  95%
-📘 TypeScript                 ████████████████████░  90%
-🎨 Redux Toolkit / Zustand    ███████████████████░░  85%
-⚡ Next.js                    ██████████████░░░░░░░  70%
-🎯 TanStack Query             ████████████████░░░░░  80%
-```
+
+| Технология | Прогресс |
+| :--- | ------: |
+| <img width="16" src="https://cdn.simpleicons.org/react/61DAFB" alt="React" /> React / React Native | `████████████████████░  95%` |
+| <img width="16" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" /> TypeScript | `████████████████████░  90%` |
+| <img width="16" src="https://cdn.simpleicons.org/redux/764ABC" alt="Redux" /> Redux Toolkit / Zustand | `███████████████████░░  85%` |
+| <img width="16" src="https://cdn.simpleicons.org/reactquery/FF4154" alt="TanStack Query" /> TanStack Query | `████████████████░░░░░  75%` |
+| <img width="16" src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" /> Next.js | `██████████████░░░░░░░  65%` |
+
 
 ### Styling & UI
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -88,34 +91,24 @@
 
 ---
 
-## 📊 GitHub Статистика
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarckShot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarckShot&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarckShot&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🏆 Достижения
 
-- ⚡ Улучшил производительность приложений на **25-40%**
-- 🎯 Покрытие кода тестами до **85%**
-- 🚀 Оптимизировал загрузку с **40 до 25 секунд**
-- 📈 Повысил Lighthouse Performance с **20-25% до 60+%**
-- 🛠️ Исправил **100+ production багов**
-- 🎓 Работал над проектами для **50+ пользователей**
+- Улучшил производительность приложений на **25-40%**
+- Покрытие кода тестами до **85%**
+- Оптимизировал загрузку с **40 до 25 секунд**
+- Повысил Lighthouse Performance с **20-25% до 60+%**
+- Исправил **100+ production багов**
+- Работал над проектами для **50+ пользователей**
 
 ---
 
 ## 🎓 Образование
 
-**🎯 Московский государственный технологический университет «СТАНКИН»**  
-*2023 - 2027* | Информационные системы и технологии
+**Национальный исследовательский университет ИТМО**  
+*2025 - 2027* | Веб-технологии
+
+**Пермский Национальный Исследовательский Политехнический Университет**  
+*2021 - 2025* | Информационные системы и технологии
 
 ---
 
@@ -125,10 +118,10 @@
   
   **Всегда открыт для интересных проектов и сотрудничества!**
   
-  📧 Email: [sergeiikrasnopolskii@gmail.com](mailto:sergeiikrasnopolskii@gmail.com)  
-  💬 Telegram: [@SergeyKWork](https://t.me/SergeyKWork)  
+  📧 Email: [sergey_krasn@mail.ru](mailto:sergey_krasn@mail.ru)  
+  💬 Telegram: [@DarckShot](https://t.me/DarckShot)  
   🐙 GitHub: [@DarckShot](https://github.com/DarckShot)  
-  📞 Телефон: +7 (995) 279-00-84
+  📞 Телефон: +7 (901) 454-77-68
   
 </div>
 
