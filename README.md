@@ -89,16 +89,6 @@
 
 ---
 
-## 📊 GitHub Статистика
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DarckShot&theme=whatsapp-light&hide_border=true&ring=2D9EF7&fire=2D9EF7&currStreakNum=2D9EF7&sideNums=2D9EF7" alt="GitHub Streak" />
-</p>
-
-
-
----
-
 ## 🏆 Достижения
 
 - Улучшил производительность приложений на **25-40%**
