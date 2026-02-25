@@ -79,7 +79,7 @@
 | <img width="16" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" /> TypeScript | `████████████████████░  90%` |
 | <img width="16" src="https://cdn.simpleicons.org/redux/764ABC" alt="Redux" /> Redux Toolkit / Zustand | `███████████████████░░  85%` |
 | <img width="16" src="https://cdn.simpleicons.org/reactquery/FF4154" alt="TanStack Query" /> TanStack Query | `████████████████░░░░░  75%` |
-| <img width="16" src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" /> Next.js | `██████████████░░░░░░░  65%` |
+| <img width="16" src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" /> Next.js | `████████████████░░░░░  75%` |
 
 ### State Management & Tools
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
